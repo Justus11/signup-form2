@@ -1,6 +1,6 @@
 body{
-- Mobile: 375px
-- Desktop: 1440px
+/*- Mobile: 375px
+- Desktop: 1440px*/
 - Font size: 16px
 - Family: [Poppins](https://fonts.google.com/specimen/Poppins)
 - Weights: 400, 500, 600, 700
@@ -9,7 +9,26 @@ input,
 button{
 
 }
+
 input,
 button{
   
+}
+.App{
+
+}
+.App h1:before {
+
+}
+.AddSignupForm {
+
+}
+.AddSignupForm input{
+
+}
+.AddSignupForm input [type='text'] {
+
+}
+.SignupForm {
+
 }
